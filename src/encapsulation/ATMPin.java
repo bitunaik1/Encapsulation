@@ -14,5 +14,6 @@ class ATMPinInfo{
 		ATMPin p = new ATMPin();
 		p.setPin(1234);
 		System.out.println(p.getPin());
+		System.out.println("Jagan is a bitch.");
 	}
 }
