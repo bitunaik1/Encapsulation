@@ -6,9 +6,9 @@ public static void main(String[] args) {
 	t2.setId(101);
 	t2.setName("Sachin");
 	System.out.println(t2.getId());
-	System.out.println("Hi");
-	System.out.println(t2.getName());	
-   System.out.println("Hi"); 
+
+   
+   
 }
 }
 
