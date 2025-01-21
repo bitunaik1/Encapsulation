@@ -1,3 +1,5 @@
+
+
 package encapsulation1;
 import  encapsulation.*;
 public class Sample extends Test{
